@@ -173,3 +173,19 @@ th,td {
   padding: 10px;
 }
 
+
+
+.boxFive {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 50px;
+  align-items: center;
+}
+.lastTitle {
+  text-align: center;
+}
+.social {
+  width: auto;
+}
