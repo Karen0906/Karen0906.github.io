@@ -1,0 +1,175 @@
+.wrapper {
+  padding: 50px;
+  max-width: 1024px;
+  display: flex;
+  justify-content: space-between;
+  /*align-items: center;*/
+  color: #6E4555;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+
+
+.titleBox {
+  /*border: 2px solid blue;*/
+  width: 100%;
+}
+h1 {
+  color: #FF7477;
+  font-size: 80px;
+  text-align: center;
+  margin: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
+h2 {
+  color: #E69597;
+  text-align: center;
+}
+h3 {
+  color: #CEB5B7;
+  text-align: left;
+  letter-spacing: 3px;
+}
+h4 {
+  color: #B5D6D6;
+  text-align: left;
+}
+p {
+  text-align: justify;
+  font-size: 15px;
+}
+.boxTitle {
+  text-align: left;
+}
+
+
+
+.boxOne {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.meBox {
+  width: 50%;
+}
+.img {
+  width: 250px;
+}
+.programBox {
+  width: 50%;
+}
+.valueOne {
+  background-color: rgba(143, 235, 223, 0.795);
+  width: 80%;
+  height: 20px;
+}
+.valueTwo {
+  background-color: rgba(235, 143, 189, 0.795);
+  width: 70%;
+  height: 20px;
+}
+.valueThree {
+  background-color: rgba(235, 211, 143, 0.795);
+  width: 50%;
+  height: 20px;
+}
+.valueFour {
+  background-color: rgba(221, 235, 143, 0.795);
+  width: 10%;
+  height: 20px;
+}
+.value {
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+
+
+.boxTwo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.programOne {
+  width: 45%;
+}
+.img1 {
+  width: 448px; /*1123*/
+}
+.img2 {
+  width: 448px; /*1122*/
+}
+.img3 {
+  width: 396px; /*991*/
+}
+.programTwo {
+  width: 45%;
+}
+.img4 {
+  width: 402px; /*670*/
+}
+.img5 {
+  width: 156px; /*262*/
+}
+.img6 {
+  width: 324px; /*546*/
+}
+
+
+
+.boxThree {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 50px;
+  text-align: left;
+}
+.hobbies {
+  width: 45%;
+}
+.list {
+  text-align: left;
+}
+.img7 {
+  width: 306px; /*1024*/
+}
+.sports {
+  width: 45%;
+}
+.img8 {
+  width: 102px; /*1024*/
+}
+
+
+.boxFour {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 50px;
+  align-items: center;
+}
+.boxFourTitle {
+  text-align: center;
+}
+.table {
+  border: 2px solid #CEB5B7;
+  border-radius: 5px;
+}
+th,td {
+  border: 2px solid #CEB5B7;
+  border-radius: 5px;
+  padding: 10px;
+}
+
